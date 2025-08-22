@@ -24,3 +24,5 @@ if __name__ == "__main__":
     else:
         print(f"{number} is Odd")
 
+10
+20
