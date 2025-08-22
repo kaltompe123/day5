@@ -1,6 +1,6 @@
 # Sample Python Code
 
-def greet_user(IBM+1):
+def greet_user(IBM+1+2):
     """Function to greet the user"""
     return f"Hello, {name}! Welcome to Python."
 
